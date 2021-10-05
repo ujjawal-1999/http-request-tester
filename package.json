@@ -19,9 +19,14 @@
   },
   "homepage": "https://github.com/ujjawal-1999/http-request-tester#readme",
   "dependencies": {
+    "@codemirror/basic-setup": "^0.19.0",
+    "@codemirror/commands": "^0.19.5",
+    "@codemirror/lang-json": "^0.19.1",
+    "@codemirror/view": "^0.19.9",
     "@popperjs/core": "^2.10.2",
     "axios": "^0.22.0",
-    "bootstrap": "^5.1.1"
+    "bootstrap": "^5.1.1",
+    "pretty-bytes": "^5.6.0"
   },
   "devDependencies": {
     "snowpack": "^3.8.8"
